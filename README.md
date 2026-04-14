@@ -10,7 +10,7 @@
 
 제일 쉬운 방법. AI에게 한 줄:
 
-> "이 repo로 올라포케 스킬 설치해줘: https://github.com/mnspkm/hola-poke-yeoksam-skill"
+> 이 repo로 올라포케 스킬 설치해줘: https://github.com/mnspkm/hola-poke-yeoksam-skill
 
 에이전트가 알아서 `~/.claude/skills/` 또는 `~/.cursor/skills/`에 복제합니다. 그 다음 바로 대화:
 
