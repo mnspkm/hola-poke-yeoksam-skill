@@ -74,7 +74,7 @@ git clone https://github.com/mnspkm/hola-poke-yeoksam-skill \
 | 메뉴 추천·탐색 | "오늘 든든한 거 땡기는데 뭐 먹을까?" | `get_menu` |
 | 매장 정보 | "역삼점 어디야? 영업시간은?" | `get_shop_info` |
 | 단체주문 안내 | "단체주문 하고 싶어" | `get_shop_info` |
-| 이벤트 참여 | "올라포케 이벤트 참여해줘" | `enter_raffle` |
+| 이벤트 참여 | "올라포케 이벤트 참여해줘" | `enter_event` |
 
 <!-- TODO: 실제 대화 흐름 GIF/스크린샷 첨부 -->
 
