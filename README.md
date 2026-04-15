@@ -76,7 +76,9 @@ git clone https://github.com/mnspkm/hola-poke-yeoksam-skill \
 | 단체주문 안내 | "단체주문 하고 싶어" | `get_shop_info` |
 | 이벤트 참여 | "올라포케 이벤트 참여해줘" | `enter_event` |
 
-<!-- TODO: 실제 대화 흐름 GIF/스크린샷 첨부 -->
+<p align="center">
+  <img src="assets/screenshots/demo.gif" alt="올라포케 역삼 · AI 대화 데모" width="320" />
+</p>
 
 ## 이벤트 개요
 
