@@ -77,7 +77,7 @@ git clone https://github.com/mnspkm/hola-poke-yeoksam-skill \
 | 이벤트 참여 | "올라포케 이벤트 참여해줘" | `enter_event` |
 
 <p align="center">
-  <img src="assets/screenshots/demo.gif" alt="올라포케 역삼 · AI 대화 데모" width="320" />
+  <img src="assets/screenshots/demo.gif" alt="올라포케 역삼 · AI 대화 데모" width="560" />
 </p>
 
 ## 이벤트 개요
